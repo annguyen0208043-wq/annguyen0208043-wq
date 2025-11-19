@@ -1,10 +1,10 @@
-# 👋 Xin chào! Tôi là Van An Nguyen
+# 👋 Hello! I’m Van An Nguyen
 
-**Web Developer** đam mê xây dựng ứng dụng web hiện đại, responsive và tối ưu hiệu năng.  
+I’m a **Web Developer** passionate about building modern, responsive, and high-performance web applications.  
 
 ---
 
-## 💻 Kỹ năng
+## 💻 Skills
 
 ### Frontend
 <p>
@@ -33,7 +33,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
 </p>
 
-### Công cụ & Version Control
+### Tools & Version Control
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Google Colab" width="40" height="40"/>
@@ -41,7 +41,13 @@
 
 ---
 
-## 📫 Liên hệ
+## 🌱 Currently Learning
+- Advanced ReactJS & Node.js
+- DevOps & Cloud Deployment
+
+---
+
+## 📫 Contact
 - Gmail: [email@gmail.com](mailto:email@gmail.com)
 - LinkedIn: [linkedin.com/in/your-linkedin](https://linkedin.com)
 
