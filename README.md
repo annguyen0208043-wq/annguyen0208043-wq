@@ -1,4 +1,4 @@
-# 👋 Hello! I’m Van An Nguyen
+# Hello! I’m Van An Nguyen
 
 I’m a **Web Developer** passionate about building modern, responsive, and high-performance web applications.  
 
@@ -48,8 +48,9 @@ I’m a **Web Developer** passionate about building modern, responsive, and high
 ---
 
 ## 📫 Contact
-- Gmail: [email@gmail.com](mailto:email@gmail.com)
-- LinkedIn: [linkedin.com/in/your-linkedin](https://linkedin.com)
+- Gmail: [nvanan020804@gmail.com](mailto:email@gmail.com)
+- LinkedIn: [https://www.linkedin.com/in/nguyenvanan-web](https://linkedin.com)
+- Facebook: [https://www.facebook.com/vanan020804/?locale=vi_VN](https://www.facebook.com)
 
 ---
 
